@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">City Through My Eyes</string>
+    <string name="title_activity_map">Map</string>
+    <string name="error_geocoder_inavailale">Отсутствует модуль определения адресов. Ваше устройство в настоящее время не поддерживается. Пожалуйста, сообщите о проблеме разработчику.</string>
+</resources>
